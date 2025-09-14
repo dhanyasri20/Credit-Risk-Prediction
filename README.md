@@ -1,4 +1,4 @@
-# 🧑 Credit Risk Prediction (Python & SQL) - Jul 2025
+# 🧑 Credit Risk Prediction 
 
 This project predicts high-risk loan applicants using machine learning and provides insights through SQL reporting and visualizations. The goal is to identify potential loan defaulters and assist financial institutions in decision-making.
 
