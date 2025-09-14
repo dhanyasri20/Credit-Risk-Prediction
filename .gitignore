@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+env/
+venv/
+*.env
+
+# Data files (if you don't want to push the full dataset)
+*.csv
+
+# Model files (optional, if you don’t want to push large joblib files)
+*.joblib
+*.pkl
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
